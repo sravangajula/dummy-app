@@ -1,0 +1,9 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  database: dummy_test_db
+  username: root
+  password: root
+  host: localhost
+  port: 3306
+  timeout: 5000
